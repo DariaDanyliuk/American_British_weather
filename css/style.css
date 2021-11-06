@@ -1,0 +1,61 @@
+h1 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 75px;
+}
+
+p {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 35px;
+  color: darkgreen;
+  width: 1500px;
+  /* height: 35px; */
+}
+
+.climate {
+  width: 600px;
+  height: 700px;
+}
+
+.kaktus {
+  width: 600px;
+  height: 420px;
+}
+
+.british {
+  width: 470px;
+  height: 1000px;
+}
+
+.UK {
+  width: 500px;
+  height: 400px;
+}
+
+.forecast {
+  width: 740px;
+  height: 500px;
+}
+
+h2 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 75px;
+}
+
+.BBC {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  color: darkgreen;
+  width: 1500px;
+}
